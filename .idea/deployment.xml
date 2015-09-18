@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ENERGOSPEC FTP">
+    <serverData>
+      <paths name="ENERGOSPEC FTP">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hefczyc.pl/tests/SlimTest" local="$PROJECT_DIR$" web="/hefczyc.pl/tests/SlimTest" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
